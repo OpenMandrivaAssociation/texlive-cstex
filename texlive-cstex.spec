@@ -1,11 +1,11 @@
-# revision 31560
+# revision 32249
 # category Package
 # catalog-ctan /macros/cstex
-# catalog-date 2012-12-24 16:43:45 +0100
+# catalog-date 2013-11-21 20:02:41 +0100
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-cstex
-Version:	20121224
+Version:	20131121
 Release:	1
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
