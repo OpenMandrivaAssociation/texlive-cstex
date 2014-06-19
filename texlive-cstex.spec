@@ -1,4 +1,4 @@
-# revision 32249
+# revision 34041
 # category Package
 # catalog-ctan /macros/cstex
 # catalog-date 2013-11-21 20:02:41 +0100
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cstex
 Version:	20131121
-Release:	6
+Release:	7
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/cstex
@@ -46,8 +46,9 @@ Plain/LaTeX distribution.
 %doc %{_texmfdistdir}/doc/cstex/jemny.pdf
 %doc %{_texmfdistdir}/doc/cstex/jemny.tar.gz
 %doc %{_texmfdistdir}/doc/cstex/lic-gpl.eng
-%doc %{_texmfdistdir}/doc/cstex/opmac-d.pdf
 %doc %{_texmfdistdir}/doc/cstex/opmac-d.tex
+%doc %{_texmfdistdir}/doc/cstex/opmac-u-en.pdf
+%doc %{_texmfdistdir}/doc/cstex/opmac-u-en.tex
 %doc %{_texmfdistdir}/doc/cstex/opmac-u.pdf
 %doc %{_texmfdistdir}/doc/cstex/opmac-u.tex
 %doc %{_texmfdistdir}/doc/cstex/pdfuni-article.pdf
