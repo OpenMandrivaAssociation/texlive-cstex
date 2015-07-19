@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cstex
 Version:	20131121
-Release:	9
+Release:	10
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/cstex
