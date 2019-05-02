@@ -1,5 +1,5 @@
 Name:		texlive-cstex
-Version:	20180904
+Version:	20190324
 Release:	1
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
