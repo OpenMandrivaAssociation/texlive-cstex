@@ -1,6 +1,6 @@
 Name:		texlive-cstex
 Version:	64149
-Release:	1
+Release:	2
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/cstex
