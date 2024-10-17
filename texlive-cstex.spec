@@ -3,7 +3,7 @@ Version:	64149
 Release:	2
 Summary:	Support for Czech/Slovak languages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/cstex
+URL:		https://www.ctan.org/tex-archive/macros/cstex
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cstex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cstex.doc.r%{version}.tar.xz
